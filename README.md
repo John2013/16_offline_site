@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Just a one-page bootstrap html template
 
 # Project Goals
 
